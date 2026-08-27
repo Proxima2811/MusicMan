@@ -5,6 +5,10 @@ Parts list: 1 2N3904 Transistor, 1 4.7Mohm resistor, 1 220ohm resistor, 2 1N4148
 This is a basic diode clipping stage on Falstad.
 As you can see, on the right, the signal waveform of the AC signal source is given and on the left, the clipped waveform of Vout is given
 
+### Clipping with a gain stage : 
+<img width="993" height="827" alt="image" src="https://github.com/user-attachments/assets/14a98153-2ed6-4c90-b412-0d486da17ebc" />
+
+
 ## tube screamer
 
 <img width="563" height="450" alt="image" src="https://github.com/user-attachments/assets/a8b743e1-50f1-4f8e-8453-cbbcacfa6cb3" />
