@@ -6,7 +6,8 @@ This is a basic diode clipping stage on Falstad.
 As you can see, on the right, the signal waveform of the AC signal source is given and on the left, the clipped waveform of Vout is given
 
 ### Clipping with a gain stage : 
-<img width="993" height="827" alt="image" src="https://github.com/user-attachments/assets/14a98153-2ed6-4c90-b412-0d486da17ebc" />
+<img width="1003" height="862" alt="image" src="https://github.com/user-attachments/assets/920d4cde-ad12-47c9-9977-78976784a641" />
+
 
 
 ## tube screamer
