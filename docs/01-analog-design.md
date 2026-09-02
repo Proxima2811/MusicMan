@@ -8,7 +8,24 @@ As you can see, on the right, the signal waveform of the AC signal source is giv
 ### Clipping with a gain stage : 
 <img width="1003" height="862" alt="image" src="https://github.com/user-attachments/assets/920d4cde-ad12-47c9-9977-78976784a641" />
 
+## Electra Distortion Circuit
 
+| Component | Function |
+|---|---|
+| **9V Supply** | Provides DC power to the circuit. |
+| **100nF Input Capacitor** | Blocks DC and allows the AC guitar signal to enter the gain stage. |
+| **2N3904 BJT** | Gain stage; converts small base-signal changes into larger collector-current changes. |
+| **47kΩ Collector Resistor** | Converts changes in collector current into changes in collector voltage. |
+| **2.2MΩ Feedback Resistor** | Provides collector-to-base feedback to establish and stabilize the transistor's DC bias. |
+| **820Ω Emitter Resistor** | Stabilizes the transistor's operating point through negative feedback. |
+| **120nF Output Capacitor** | Blocks the collector's DC bias and passes the amplified AC signal to the clipping stage. |
+| **1N4148 & 1N34A Diodes** | Clip the positive and negative signal peaks, creating harmonics and distortion. |
+| **A100K Potentiometer** | Controls the output/volume level of the distorted signal. |
+| **Ground** | Provides the 0V reference and completes the circuit. |
+
+### Signal Path
+
+**Guitar → Input Capacitor → BJT Gain Stage → Output Capacitor → Diode Clipping → Volume Pot → Output**
 
 ## tube screamer
 
