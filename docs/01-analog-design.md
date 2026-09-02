@@ -8,7 +8,7 @@ As you can see, on the right, the signal waveform of the AC signal source is giv
 ### Clipping with a gain stage : 
 <img width="1003" height="862" alt="image" src="https://github.com/user-attachments/assets/920d4cde-ad12-47c9-9977-78976784a641" />
 
-## Electra Distortion Circuit
+## Components and their function
 
 | Component | Function |
 |---|---|
